@@ -35,7 +35,7 @@
    git clone https://github.com/ваш_логин/The-discipline-of-Artificial-Intelligence-HSE-2024.git
    ```
 2. Перейдите в директорию с лабораторными работами:
-  ```
+  ```bash
   cd The-discipline-of-Artificial-Intelligence-HSE-2024
   ```
 3. Запустите нужную лабораторную работу
